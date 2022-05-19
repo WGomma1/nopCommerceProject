@@ -1,0 +1,3 @@
+file:src/main/resources/Features/F06_homeSliders.feature:3:7
+file:src/main/resources/Features/F07_followUs.feature:3:7:15
+file:src/main/resources/Features/F09_ShoppingCart.feature:7
